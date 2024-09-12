@@ -1,0 +1,1 @@
+Mozilla/5.0 (Android; Android 5.0.2; Nokia 1000 4G Build/GRK39F) AppleWebKit/600.45 (KHTML, like Gecko) Chrome/50.0.2924.127 Mobile Safari/535.5 [FBAN/FB4A;FBAV/282.0.0.40.117;FBBV/236468732;FBDM/{density=2.625,width=1080,height=1794};FBLC/en_US;FBRV/238430540;FBCR/Ufone;FBMF/HMD Global;FBBD/Nokia;FBPN/com.facebook.katana;FBDV/Nokia 1000 4G ;FBSV/10;FBOP/1;FBCA/arm64-v8a:;]

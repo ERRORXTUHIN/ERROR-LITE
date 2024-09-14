@@ -1,1 +1,1 @@
-Dalvik/2.1.0 (Linux; U; Android 9; Rise 31 Build/TP1A.220905.001) [FBAN/Orca-Android;FBAV/470.0.0.46.109;FBPN/com.facebook.orca;FBLC/en_GB;FBBV/630169011;FBCR/Grameenphone;FBMF/Orange;FBBD/Orange;FBDV/Rise 31;FBSV/9;FBCA/arm64-v8a:null;];FBDM={density=2.7,width=720,height=1440};FB_FW/1;]
+[FBAN/FB4A;FBAV/454.0.0.0.77;FBBV/449808468;FBDM/{density=3.5,width=1080,height=2436};FBLC/en_US;FBRV/0;FBCR/Banglalink;FBMF/INFINIX;FBBD/INFINIX;FBPN/com.facebook.katana;FBDV/X6851;FBSV/14;FBOP/1;FBCA/arm64-v8a:;]

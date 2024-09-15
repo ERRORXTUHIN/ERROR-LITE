@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/427.0.0.31.63;FBBV/502904422;FBDM/{density=2.0,width=720,height=1456};FBLC/en_GB;FBRV/0;FBCR/JIO 4G;FBMF/realme;FBBD/realme;FBPN/com.facebook.katana;FBDV/RMX2185;FBSV/10;FBOP/1;FBCA/arm64-v8a:;]
+Mozilla/5.0 (Linux; Android 9; Itel Itel A53 Build/QD4A.399594.469) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Mobile Safari/537.36 [FBAN/FB4A;FBAV/480.0.0.0.67;FBBV/455007274;FBDM/{density=2.4,width=720,height=1600};FBLC/gu_Qaau_IN;FBRV/455007274;FBCR/Vodacom;FBMF/Itel;FBBD/Itel;FBPN/com.facebook.katana;FBDV/A53;FBSV/9;FBCA/arm64-v8a:null;]

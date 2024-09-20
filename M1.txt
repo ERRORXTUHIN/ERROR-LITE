@@ -1,1 +1,1 @@
-Dalvik/2.3.0 (Linux; U; Android 11; ZS671KS Build/RQ3A.838960.858) [FBAN/FB4A;FBAV/455.0.0.0.35;FBBV/450004028;FBDM/{density=3.0,width=1080,height=2400};FBLC/hi_IN;FBRV/450004028;FBCR/Telkomsel;FBMF/Asus;FBBD/Asus;FBPN/com.facebook.katana;FBDV/ZS671KS;FBSV/11;FBCA/arm64-v8a:null;]
+Dalvik/2.2.0 (Linux; U; Android 10; PD2700U Build/PPR2.206069.763) [FBAN/FB4A;FBAV/480.0.0.0.67;FBBV/455007274;FBDM/{density=2.7,width=2560,height=1440};FBLC/th_Qaau_TH;FBRV/455007274;FBCR/Banglalink;FBMF/BenQ;FBBD/BenQ;FBPN/com.facebook.katana;FBDV/PD2700U;FBSV/10;FBCA/arm64-v8a:;]

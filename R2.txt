@@ -1,1 +1,1 @@
-Dalvik/3.0.0 (Linux; U; Android 11; EW3270U Build/SP1A.251153.156) [FBAN/FB4A;FBAV/455.0.0.0.35;FBBV/450004028;FBDM/{density=2.6,width=2560,height=1440};FBLC/th_Qaau_TH;FBRV/450004028;FBCR/Verizon;FBMF/BenQ;FBBD/BenQ;FBPN/com.facebook.katana;FBDV/EW3270U;FBSV/11;FBCA/arm64-v8a:;]
+Dalvik/3.0.0 (Linux; U; Android 12; 22021211RC Build/SD2A.404264.187) [FBAN/FB4A;FBAV/455.0.0.0.35;FBBV/450004028;FBDM/{density=3.0,width=1440,height=3200};FBLC/th_Qaau_TH;FBRV/450004028;FBCR/Etisalat;FBMF/Xiaomi;FBBD/Xiaomi;FBPN/com.facebook.katana;FBDV/22021211RC;FBSV/12;FBCA/arm64-v8a:null;]

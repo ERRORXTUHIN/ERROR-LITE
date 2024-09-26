@@ -1,1 +1,1 @@
-Dalvik/2.3.0 (Linux; U; Android 9; WKH2 Build/QP1A.177889.320) [FBAN/FB4A;FBAV/455.0.0.0.35;FBBV/450004028;FBDM/{density=2.7,width=720,height=1440};FBLC/en_BD;FBRV/450004028;FBCR/Unifi Mobile;FBMF/Wiko;FBBD/Wiko;FBPN/com.facebook.katana;FBDV/WKH2;FBSV/9;FBCA/armeabi-v7a:armeabi;]
+Dalvik/2.3.0 (Linux; U; Android 10; V2031 Build/PPR2.757274.999) [FBAN/FB4A;FBAV/455.0.0.0.35;FBBV/450004028;FBDM/{density=2.4,width=720,height=1600};FBLC/bn_BD;FBRV/450004028;FBCR/Vodacom;FBMF/Vivo;FBBD/Vivo;FBPN/com.facebook.katana;FBDV/V2031;FBSV/10;FBCA/armeabi-v7a:armeabi;]

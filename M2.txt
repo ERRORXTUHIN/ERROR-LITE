@@ -1,1 +1,0 @@
-Dalvik/2.1.0 (Linux; U; Android 9; SM-G965F Build/TQ3A.344474.985) [FBAN/FB4A;FBAV/455.0.0.0.35;FBBV/450004028;FBDM/{density=3.0,width=1440,height=2960};FBLC/en_IN;FBRV/450004028;FBCR/Etisalat;FBMF/Samsung;FBBD/Samsung;FBPN/com.facebook.katana;FBDV/SM-G965F;FBSV/9;FBCA/arm64-v8a:null;]

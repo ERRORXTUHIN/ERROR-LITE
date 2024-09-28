@@ -1,1 +1,0 @@
-Dalvik/2.1.2 (Linux; U; Android 8; 5056D Build/RP1A.734739.494) [FBAN/FB4A;FBAV/455.0.0.0.35;FBBV/450004028;FBDM/{density=2.6,width=720,height=1440};FBLC/en_Qaau_GB;FBRV/450004028;FBCR/Verizon;FBMF/Alcatel;FBBD/Alcatel;FBPN/com.facebook.katana;FBDV/5056D;FBSV/8;FBCA/armeabi-v7a:armeabi;]

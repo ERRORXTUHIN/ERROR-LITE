@@ -1,5 +1,4 @@
-# INSTALLING TOOL 👇
-pip install ua
+pip install pycountry
 
 pip install h2
 
